@@ -1,51 +1,28 @@
-# Welcome to your Expo app 👋
+# Afficher une grande liste avec SectionList
+## my-restaurant-sectionlist
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Objectifs pédagogiques 
+* structurer des données en sections pour SectionList ;
+* utiliser les props principales de SectionList :
+* sections, renderItem, renderSectionHeader, keyExtractor ;
+* afficher, pour chaque élément, nom + prix sur une ligne ;
+* ajouter un style cohérent pour obtenir un rendu proche de la maquette.
 
-## Get started
+## Création du projet 
+<img width="959" height="503" alt="Lab6 1" src="https://github.com/user-attachments/assets/dabed797-e325-4069-8c43-32182bfeaf73" />
 
-1. Install dependencies
+## Exécution 
+<img width="959" height="503" alt="Lab6 2" src="https://github.com/user-attachments/assets/2495c150-ea1c-4ac1-b854-83f359478fb4" />
+![1](https://github.com/user-attachments/assets/659fad8e-c2f1-40f2-add8-c71e50a4d7fb)
+![2](https://github.com/user-attachments/assets/eedd7668-62fc-4974-86a3-91ea0a380908)
+<img width="959" height="467" alt="Lab6 exe" src="https://github.com/user-attachments/assets/2d8abc15-2da7-4560-8a7c-b7be56e39fd0" />
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+https://github.com/user-attachments/assets/a64e815a-c38f-475e-81e1-e2d4af8a3ba7
 
-   ```bash
-   npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-"# my-restaurant-sectionlist" 
+## Auteur 
+* Nom : BEN-LAGHFIRI Majeda
+* Cours: React Native
+* Date : Janvier 2026
+* Encadré par : Pr.Mohamed LACHGAR
