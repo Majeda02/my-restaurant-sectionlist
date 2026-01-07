@@ -13,8 +13,8 @@
 
 ## Exécution 
 <img width="959" height="503" alt="Lab6 2" src="https://github.com/user-attachments/assets/2495c150-ea1c-4ac1-b854-83f359478fb4" />
-![1](https://github.com/user-attachments/assets/659fad8e-c2f1-40f2-add8-c71e50a4d7fb)
-![2](https://github.com/user-attachments/assets/eedd7668-62fc-4974-86a3-91ea0a380908)
+<img width="158" height="322" alt="image" src="https://github.com/user-attachments/assets/d7cf83de-5d09-4220-b48b-cc4b3b08e1bd" />
+<img width="147" height="307" alt="image" src="https://github.com/user-attachments/assets/6c334a04-d2e2-468e-9222-d7b9b2406736" />
 <img width="959" height="467" alt="Lab6 exe" src="https://github.com/user-attachments/assets/2d8abc15-2da7-4560-8a7c-b7be56e39fd0" />
 
 
